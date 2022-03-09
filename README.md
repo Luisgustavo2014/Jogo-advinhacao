@@ -1,1 +1,1 @@
-# jodo-advinhacao
+# jogo-adivinhacao
